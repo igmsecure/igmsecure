@@ -20,9 +20,9 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ### 💻 Tech Stack:
 
 ### :mortar_board: Education
-| Degree                      | University                                 |  Status           |
-| --------------------------- | ------------------------------------------ | :---------------: |
-| B. of Software Engineering  | National Research Nuclear University MEPhI | Completed in 2021 |
+| Degree                                  | University                               |  Status           |
+| --------------------------------------- | ---------------------------------------- | :---------------: |
+| B. of Сomputer Science and Engineering  | Bauman Moscow State Technical University | In progress...    |
 
 #### LANGUAGES:  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
