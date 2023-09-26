@@ -38,7 +38,6 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![React](https://skillicons.dev/icons?i=react) 
 ![Redux](https://skillicons.dev/icons?i=redux) 
 ![Electron.js](https://skillicons.dev/icons?i=electron) 
-
 ![jQuery](https://skillicons.dev/icons?i=jquery) 
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
@@ -47,7 +46,7 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![Django](https://skillicons.dev/icons?i=django) 
 ![Django](https://skillicons.dev/icons?i=fastapi) 
 ![Laravel](https://skillicons.dev/icons?i=laravel) 
-![Qt](https://skillicons.dev/icons?iqt) 
+![Qt](https://skillicons.dev/icons?i=qt) 
 
 
 #### Hosting/SaaS
