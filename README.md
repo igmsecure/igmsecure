@@ -19,11 +19,6 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 
 ### 💻 Tech Stack:
 
-### :mortar_board: Education
-| Degree                                  | University                               |  Status           |
-| --------------------------------------- | ---------------------------------------- | :---------------: |
-| B. of Сomputer Science and Engineering  | Bauman Moscow State Technical University | In progress...    |
-
 #### LANGUAGES:  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -109,6 +104,10 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
+### :mortar_board: Education
+| Degree                                  | University                               |  Status           |
+| --------------------------------------- | ---------------------------------------- | :---------------: |
+| B. of Сomputer Science and Engineering  | Bauman Moscow State Technical University | In progress...    |
 
 
 ### 📊 GitHub Stats:
@@ -117,7 +116,6 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![](https://github-readme-streak-stats.herokuapp.com/?user=igmsecure&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igmsecure&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
-
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=igmsecure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
