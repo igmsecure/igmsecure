@@ -32,6 +32,8 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![Shell Script](https://skillicons.dev/icons?i=powershell) 
 
 #### FRAMEWORKS, PLATFORMS & LIBRARIES
+![Django](https://skillicons.dev/icons?i=django) 
+![FastAPI](https://skillicons.dev/icons?i=fastapi) 
 ![NodeJS](https://skillicons.dev/icons?i=nodejs) 
 ![Express.js](https://skillicons.dev/icons?i=express) 
 ![React](https://skillicons.dev/icons?i=react) 
@@ -42,8 +44,6 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
 ![Vue.js](https://skillicons.dev/icons?i=vue) 
 ![Webpack](https://skillicons.dev/icons?i=webpack) 
-![Django](https://skillicons.dev/icons?i=django) 
-![Django](https://skillicons.dev/icons?i=fastapi) 
 ![Laravel](https://skillicons.dev/icons?i=laravel) 
 ![Qt](https://skillicons.dev/icons?i=qt) 
 
@@ -80,11 +80,11 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![GIT](https://skillicons.dev/icons?i=git) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
 ![GitHub](https://skillicons.dev/icons?i=gitlab) 
+![Docker](https://skillicons.dev/icons?i=docker) 
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes) 
 ![LINUX](https://skillicons.dev/icons?i=linux) 
 ![Ansible](https://skillicons.dev/icons?i=ansible) 
 ![CMake](https://skillicons.dev/icons?i=cmake) 
-![Docker](https://skillicons.dev/icons?i=docker) 
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes) 
 ![Postman](https://skillicons.dev/icons?i=postman) 
 
 <!--
