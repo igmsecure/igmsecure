@@ -21,8 +21,8 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 
 #### LANGUAGES:  
 
-![HTML5](https://skillicons.dev/icons?i=html5) 
-![CSS3](https://skillicons.dev/icons?i=css3) 
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![TypeScript](https://skillicons.dev/icons?i=typescript) 
 
