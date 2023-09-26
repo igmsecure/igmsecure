@@ -20,6 +20,18 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ### 💻 Tech Stack:
 
 #### LANGUAGES:  
+
+![HTML5](https://skillicons.dev/icons?i=html5) 
+![CSS3](https://skillicons.dev/icons?i=css3) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![TypeScript](https://skillicons.dev/icons?i=typescript) 
+
+
+
+
+
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
