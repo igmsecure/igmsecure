@@ -48,29 +48,27 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![Laravel](https://skillicons.dev/icons?i=laravel) 
 ![Qt](https://skillicons.dev/icons?i=qt) 
 
-
 #### Hosting/SaaS
 ![AWS](https://skillicons.dev/icons?i=aws) 
-![Oracle](https://skillicons.dev/icons?i=oracle) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Heroku](https://skillicons.dev/icons?i=heroku) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+![Vercel](https://skillicons.dev/icons?i=vercel) 
 
 #### SERVERS
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Apache](https://skillicons.dev/icons?i=apache) 
+![Nginx](https://skillicons.dev/icons?i=nginx) 
 
 #### DATABASES
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 	
+![Postgres](https://skillicons.dev/icons?i=postgres) 
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![SQLite](https://skillicons.dev/icons?i=sqlite) 
+![Redis](https://skillicons.dev/icons?i=redis) 	
 
 #### DESIGN
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![Figma](https://skillicons.dev/icons?i=figma) 
+![Adobe Photoshop](https://skillicons.dev/icons?i=ps) 
+![Adobe Illustrator](https://skillicons.dev/icons?i=ai) 
 
 #### ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -80,21 +78,24 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 
 #### OTHER
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![GIT](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![GitHub](https://skillicons.dev/icons?i=gitlab) 
+![LINUX](https://skillicons.dev/icons?i=linux) 
+![Ansible](https://skillicons.dev/icons?i=ansible) 
+![CMake](https://skillicons.dev/icons?i=cmake) 
+![Docker](https://skillicons.dev/icons?i=docker) 
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes) 
+![Postman](https://skillicons.dev/icons?i=postman) 
+
+<!--
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+-->
 
 ### :mortar_board: Education
 | Degree                                  | University                               |  Status           |
