@@ -20,16 +20,15 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ### 💻 Tech Stack:
 
 #### LANGUAGES:  
-
+![C](https://skillicons.dev/icons?i=c) 
+![C++](https://skillicons.dev/icons?i=cpp) 
+![C#](https://skillicons.dev/icons?i=cs) 
 ![HTML5](https://skillicons.dev/icons?i=html) 
 ![CSS3](https://skillicons.dev/icons?i=css) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![TypeScript](https://skillicons.dev/icons?i=typescript) 
 ![PHP](https://skillicons.dev/icons?i=php) 
 ![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c) 
-![C++](https://skillicons.dev/icons?i=cpp) 
-![C#](https://skillicons.dev/icons?i=cs) 
 ![Shell Script](https://skillicons.dev/icons?i=powershell) 
 
 #### FRAMEWORKS, PLATFORMS & LIBRARIES
@@ -100,7 +99,7 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ### :mortar_board: Education
 | Degree                                  | University                               |  Status           |
 | --------------------------------------- | ---------------------------------------- | :---------------: |
-| B. of Сomputer Science and Engineering  | Bauman Moscow State Technical University | In progress...    |
+| Сomputer Science and Engineering        | Bauman Moscow State Technical University | In progress...    |
 
 
 ### 📊 GitHub Stats:
