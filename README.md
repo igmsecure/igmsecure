@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 My name is **Ibragim Dzaurov**. I'm interested in programming languages, computer networks, cryptography, and machine learning. See [section below](/) about my GitHub activity.
 
-
+**To view my main repositories scroll down this page. 6 favorite repos are listed below this text.**
 
 ### 💻 Tech Stack:
 
