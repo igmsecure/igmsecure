@@ -118,13 +118,15 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 <br/>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=igmsecure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=igmsecure&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=igmsecure&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ### :mailbox:	Contacts
-Feel free to contact me via:
+Feel free to contact me via: 
+<br/>
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:theigmpro@@gmail.com)](mailto:theigmpro@gmail.com)
+<br/>
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&link=https://t.me/igmsecure)](https://t.me/igmsecure)
 
