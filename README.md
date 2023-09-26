@@ -112,11 +112,11 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 
 
 ### 📊 GitHub Stats:
-<div align="center" style="display: flex;">
-![](https://github-readme-stats.vercel.app/api?username=igmsecure&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=igmsecure&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igmsecure&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=igmsecure&theme=dark&hide_border=false)<br/>
-</div>
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=igmsecure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
