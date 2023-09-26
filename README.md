@@ -25,6 +25,13 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![CSS3](https://skillicons.dev/icons?i=css) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![TypeScript](https://skillicons.dev/icons?i=typescript) 
+![PHP](https://skillicons.dev/icons?i=php) 
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c) 
+![C](https://skillicons.dev/icons?i=c++) 
+
+
+
 
 
 
@@ -38,7 +45,6 @@ My name is **Ibragim Dzaurov**. I'm interested in programming languages, compute
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
