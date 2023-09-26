@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-My name is **Ibragim Dzaurov**. I'm interested in programming languages, computer networks, cryptography, and machine learning. See [section below](/) about my GitHub activity.
+My name is _**Ibragim Dzaurov**_. I'm interested in programming languages, computer networks, cryptography, and machine learning. See [section below](/) about my GitHub activity.
 
-**To view my main repositories scroll down this page.**
+_**To view my main repositories scroll down this page.**_
 
 ### 💻 Tech Stack:
 
