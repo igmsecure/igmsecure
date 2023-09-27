@@ -47,16 +47,6 @@ _**To view my main repositories scroll down this page.**_
 ![Laravel](https://skillicons.dev/icons?i=laravel) 
 ![Qt](https://skillicons.dev/icons?i=qt) 
 
-#### Hosting/SaaS
-![AWS](https://skillicons.dev/icons?i=aws) 
-![Heroku](https://skillicons.dev/icons?i=heroku) 
-![Firebase](https://skillicons.dev/icons?i=firebase) 
-![Vercel](https://skillicons.dev/icons?i=vercel) 
-
-#### SERVERS
-![Apache](https://skillicons.dev/icons?i=apache) 
-![Nginx](https://skillicons.dev/icons?i=nginx) 
-
 #### DATABASES
 ![Postgres](https://skillicons.dev/icons?i=postgres) 
 ![MySQL](https://skillicons.dev/icons?i=mysql) 
@@ -68,6 +58,16 @@ _**To view my main repositories scroll down this page.**_
 ![Figma](https://skillicons.dev/icons?i=figma) 
 ![Adobe Photoshop](https://skillicons.dev/icons?i=ps) 
 ![Adobe Illustrator](https://skillicons.dev/icons?i=ai) 
+
+#### Hosting/SaaS
+![AWS](https://skillicons.dev/icons?i=aws) 
+![Heroku](https://skillicons.dev/icons?i=heroku) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+
+#### SERVERS
+![Nginx](https://skillicons.dev/icons?i=nginx) 
+![Apache](https://skillicons.dev/icons?i=apache) 
 
 #### ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
