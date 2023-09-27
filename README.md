@@ -102,9 +102,9 @@ _**To view my main repositories scroll down this page.**_
 | Сomputer Science and Engineering        | Bauman Moscow State Technical University | In progress...    |
 
 ### :information_source: Some additional info
-In my free time I like to study some knowledge about cryptography (especially symmetric cryptography and cryptoanalysis), distributed systems development, compiler internals, etc. You can find several articles on my [web-page](https://igmsecure.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
+In my free time I like to study some knowledge about cryptography (especially symmetric cryptography and cryptoanalysis), distributed systems development, compiler internals, etc. 
 
-Moreover my interests spread onto the area of computer networks, time series analysis, machine learning and deep learning. You can look at some publications below.
+Moreover my interests spread onto the area of computer networks, time series analysis, machine learning and deep learning. 
 
 
 ### 📊 GitHub Stats:
