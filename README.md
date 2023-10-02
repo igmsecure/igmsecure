@@ -101,10 +101,6 @@ _**To view my main repositories scroll down this page.**_
 | --------------------------------------- | ---------------------------------------- | :---------------: |
 | Сomputer Science and Engineering        | Bauman Moscow State Technical University | In progress...    |
 
-### :information_source: Some additional info
-In my free time I like to study some knowledge about cryptography (especially symmetric cryptography and cryptoanalysis), distributed systems development, compiler internals, etc. 
-
-Moreover my interests spread onto the area of computer networks, time series analysis, machine learning and deep learning. 
 
 
 ### 📊 GitHub Stats:
